@@ -1,0 +1,14 @@
+{
+    "name": "osbooster/cup",
+    "description": "Collection of classes and functions containing Common Use Php code.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pramod Kumar",
+            "email": "prkrim@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
